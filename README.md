@@ -1,6 +1,8 @@
 # pomodoro-clock-fcc
+
 This project is for an assignment on [freeCodeCamp](https://www.freecodecamp.org).
 Initially it was built on CodePen but I wanted to learn more about building react apps outside of CodePen.
+Pen can be found at [https://codepen.io/dtopal/full/ExYrwzp](https://codepen.io/dtopal/full/ExYrwzp)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
