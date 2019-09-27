@@ -1,4 +1,4 @@
-#pomodoro-clock-fcc
+# pomodoro-clock-fcc
 This project is for an assignment on [freeCodeCamp](https://www.freecodecamp.org).
 Initially it was built on CodePen but I wanted to learn more about building react apps outside of CodePen.
 
